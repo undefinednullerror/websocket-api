@@ -1,0 +1,15 @@
+{
+  "name": "onMessage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "onMessage.js",
+  "author": "",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.46",
+    "@types/node": "^13.9.2",
+    "aws-sdk": "^2.630.0"
+  }
+}
